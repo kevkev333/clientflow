@@ -6,7 +6,7 @@ import { useState, useEffect, useRef } from "react";
 ═══════════════════════════════════════════════════════ */
 
 const CLAUDE_API = "https://api.anthropic.com/v1/messages";
-const MODEL = "claude-sonnet-4-20250514";
+const MODEL = "claude-3-7-sonnet-latest";
 
 /* ── Design System ───────────────────────────────────── */
 const T = {
